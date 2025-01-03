@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green_primary">#4CAF50</color> <!-- A standard green shade -->
+    <color name="green_primary_variant">#388E3C</color> <!-- A darker variant -->
+    <color name="white">#FFFFFF</color>
+    <color name="dark_grey">#323232</color>
+    <color name="light_grey">#AFAFAF</color>
+</resources>
